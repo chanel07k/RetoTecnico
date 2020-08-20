@@ -12,7 +12,14 @@ Característica: Búsqueda de Politicas de Objeto extraviado
 
     Dado Ingreso a la pagina de tocumen
     Cuando Hago click en SERVICIOS/INFORMACION DEL VIAJERO/OBJETOS EXTRAVIADOS
-    Entonces Deberia abrirse el archivo aaaaa
+
+      |servicios   |info  |objextraviado  |
+      |SERVICIOS |Información del Viajero|Objetos Extraviados|
+
+
+    Entonces Deberia abrirse el archivo aa
+
+
 
 
 

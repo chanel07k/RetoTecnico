@@ -1,13 +1,11 @@
 package co.com.banistmo.reto.tasks;
 
 import co.com.banistmo.reto.interactions.SeleccionLista;
-import co.com.banistmo.reto.userinterface.Registrar;
 import co.com.banistmo.reto.model.BuscarData;
+import co.com.banistmo.reto.userinterface.Registrar;
 import net.serenitybdd.screenplay.Actor;
-import org.openqa.selenium.WebElement;
 import net.serenitybdd.screenplay.Task;
 import net.serenitybdd.screenplay.Tasks;
-import net.serenitybdd.screenplay.actions.Click;
 
 import java.util.List;
 
@@ -26,7 +24,14 @@ public class HacerClick implements Task {
 
     @Override
     public <T extends Actor> void performAs(T actor) {
-        actor.attemptsTo(Click.on(buscarData.get(0).getservicios.));
+        actor.attemptsTo(
+                SeleccionLista.laLista(Registrar.LIST_SERVICIOS,buscarData.get(0).getServicios()),
+                SeleccionLista.laLista(Registrar.LIST_INFO,buscarData.get(0).getInfo()),
+                SeleccionLista.laLista(Registrar.LIST_OBJPERFIDO,buscarData.get(0).getObjextraviado()));
+
+
+
+
 
 
     }

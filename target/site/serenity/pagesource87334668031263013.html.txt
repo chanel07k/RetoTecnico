@@ -1,0 +1,242 @@
+<html class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" dir="ltr" style="" slick-uniqueid="3"><head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=3.0, user-scalable=yes">
+    <meta name="HandheldFriendly" content="true">
+    <meta name="apple-mobile-web-app-capable" content="YES">
+    <script async="" src="//www.google-analytics.com/analytics.js"></script><script src="/templates/cliente/js/vendor/modernizr-2.8.3.min.js"></script>
+	  <base href="http://www.tocumenpanama.aero/">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <meta name="generator" content="Producciones AG http://www.agvideo.tv">
+  <title>INICIO</title>
+  <link href="http://tocumenpanama.aero/index.php" rel="canonical">
+  <link href="/templates/cliente/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">
+  <link rel="stylesheet" href="http://www.tocumenpanama.aero/modules/mod_alslideresponsive/asset/css/flexslider.min.css" type="text/css">
+  <link rel="stylesheet" href="/modules/mod_alsocial_share/assets/css/alsocialshare.min.css" type="text/css">
+  <script src="/media/jui/js/jquery.min.js" type="text/javascript"></script>
+  <script src="/media/jui/js/jquery-noconflict.js" type="text/javascript"></script>
+  <script src="/media/jui/js/jquery-migrate.min.js" type="text/javascript"></script>
+  <script src="/media/system/js/caption.js" type="text/javascript"></script>
+  <script src="/media/system/js/mootools-core.js" type="text/javascript"></script>
+  <script src="/media/system/js/core.js" type="text/javascript"></script>
+  <script src="/media/system/js/mootools-more.js" type="text/javascript"></script>
+  <script src="/media/jui/js/bootstrap.min.js" type="text/javascript"></script>
+  <script src="http://www.tocumenpanama.aero/modules/mod_alslideresponsive/asset/js/jquery.flexslider-min.js" type="text/javascript"></script>
+  <script type="text/javascript">
+jQuery(window).on('load',  function() {
+				new JCaption('img.caption');
+			});
+
+ //<![CDATA[
+			 jQuery(function() {
+				jQuery('.slide122').flexslider({controlNav: false,directionNav: false,animation:'fade',slideshowSpeed:7000,animationDuration: 600});
+			});
+			//]]>
+  </script>
+
+    <link href="/templates/cliente/css/template.css" rel="stylesheet" media="all">
+    <script src="/templates/cliente/js/template.js"></script>
+	<link rel="shortcut icon" href="/templates/cliente/favicon.ico">
+	<link href="/templates/cliente/css/aerolineas-logos.css" rel="stylesheet" type="text/css">
+	
+	<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-74182245-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+	
+</head>
+<body>
+    <!--[if lt IE 8]>
+        <p class="browserupgrade">Está utilizando un navegador <strong>anticuado</strong>.
+        Por Favor <a href="http://browsehappy.com/">actualizar su navegador</a> para mejorar su experiencia.</p>
+    <![endif]-->
+	
+	
+	
+	
+	<header id="header">
+	
+	
+	
+	
+	
+	
+	
+		<div class="container">
+            <div class="row">
+                <div id="logoheader" class="span3">
+                    <a href="/">
+                    								<img src="/images/logo-tocumen.png" alt="Aeropuerto Internacional de Tocumen" width="218" height="122">
+						                    </a>
+                </div>
+                <div class="span9">
+                    <div class="row"></div>
+                    <div class="sociales"><div class="pip_container pip_type3">
+		<div class="pip_bg pip_btn">
+			<span>Follow us</span>
+							<a class="alfollow" href="https://www.facebook.com/tocumenaero/" target="_blank" title="Facebook">
+				<img src="/modules/mod_alsocial_share/assets/images/facebook.png" alt="facebook" width="30" height="30"></a>
+										<a class="alfollow" href="https://twitter.com/tocumenaero" target="_blank" title="Twitter">
+				<img src="/modules/mod_alsocial_share/assets/images/twitter.png" alt="twitter" width="30" height="30"></a>
+										<a class="alfollow" href="https://www.youtube.com/channel/UCnUkU5hVgy4Vm0HVTwT78XQ" target="_blank" title="Facebook">
+				<img src="/modules/mod_alsocial_share/assets/images/youtube.png" alt="youtube" width="30" height="30"></a>
+										<div class="pip_bg pip_hover">
+					<span>Share</span>
+					<img src="/modules/mod_alsocial_share/assets/images/share.png" alt="share" width="30" height="30">
+					<div class="pip_popup_hidden">
+						<div class="pip_popup">
+							<div class="pip_popup_corner1"></div>
+							<div class="pip_popup_corner2"></div>
+															<a class="pip_bg" href="http://www.facebook.com/share.php?u=http%3A%2F%2Ftocumenpanama.aero%2F" target="_blank" title="Facebook">
+								<img src="/modules/mod_alsocial_share/assets/images/facebook.png" alt="facebook" width="30" height="30"></a>
+															<a class="pip_bg" href="http://twitter.com/intent/tweet?text=INICIO&amp;url=http%3A%2F%2Ftocumenpanama.aero%2F" target="_blank" title="Twitter">
+								<img src="/modules/mod_alsocial_share/assets/images/twitter.png" alt="twitter" width="30" height="30"></a>
+															<a class="pip_bg" href="https://instagram.com/?http%3A%2F%2Ftocumenpanama.aero%2F" target="_blank" title="Instagram">
+								<img src="/modules/mod_alsocial_share/assets/images/instagram.png" alt="twitter" width="30" height="30"></a>
+													</div>
+					</div>
+				</div>
+					</div>
+	</div>
+	<div style="clear:both;"></div></div>
+                    <nav id="menutop" class="navigation"><ul class="nav menu almenu hidden-phone">
+<li class="item-101 current active"><a href="/index.php">INICIO</a></li><li class="item-102"><a href="/index.php/nosotros/historia">QUIÉNES SOMOS</a></li><li class="item-104 deeper parent"><a class=" dropdown-toggle" href="#">SERVICIOS</a><ul class="nav-child unstyled small"><li class="item-166 deeper parent"><a class=" dropdown-toggle" href="#">Información del Viajero</a><ul class="nav-child unstyled small"><li class="item-221"><a href="/index.php/servicios/informacion-del-viajero/registro-check-in">Registro/Check In</a></li><li class="item-222"><a href="/index.php/servicios/informacion-del-viajero/restricciones-de-equipaje-de-mano">Restricciones de Equipaje de Mano</a></li><li class="item-223"><a href="/index.php/servicios/informacion-del-viajero/programa-de-migracion-biometrica">Programa de Migración Biométrica</a></li><li class="item-224"><a href="/index.php/requisitos-para-la-entrada-a-panama">Pasaporte</a></li><li class="item-229"><a href="/index.php/inmigracion/inmigracion">Puesto de Control de Seguridad</a></li><li class="item-239"><a href="/index.php/servicios/informacion-del-viajero/viajando-con-menores">Viajando con Menores</a></li><li class="item-240"><a href="/index.php/servicios/informacion-del-viajero/asistencia-a-pasajeros-con-movilidad-reducida">Asistencia a Pasajeros con Movilidad Reducida</a></li><li class="item-267"><a href="/index.php/servicios/informacion-del-viajero/objetos-extraviados">Objetos Extraviados</a></li><li class="item-185"><a href="/index.php/servicios/informacion-del-viajero/internet-telefonos">Internet y Teléfonos</a></li><li class="item-241"><a href="/index.php/servicios/informacion-del-viajero/area-de-fumadores">Área de Fumadores</a></li></ul></li><li class="item-114 deeper parent"><a class=" dropdown-toggle" href="#">Aerolíneas y Vuelos</a><ul class="nav-child unstyled small"><li class="item-245"><a href="/index.php/servicios/aerolineas-y-vuelos/aerolineas-de-pasajeros">Aerolineas de Pasajeros</a></li><li class="item-296"><a href="/index.php/servicios/aerolineas-y-vuelos/aerolineas-de-carga">Aerolíneas de Carga</a></li></ul></li><li class="item-115 deeper parent"><a class=" dropdown-toggle" href="#">Restaurantes</a><ul class="nav-child unstyled small"><li class="item-261"><a href="/index.php/restaurantes/bares-y-cafeterias">Bares y Cafeterías</a></li><li class="item-260"><a href="/index.php/restaurantes/comida-rapida">Comida Rápida</a></li><li class="item-262"><a href="/index.php/restaurantes/restaurante-casual">Restaurante Casual</a></li></ul></li><li class="item-165 deeper parent"><a class=" dropdown-toggle" href="#">Tiendas</a><ul class="nav-child unstyled small"><li class="item-216"><a href="/index.php/tiendas/licores-y-cigarrillos">Licores y Cigarrillos</a></li><li class="item-217"><a href="/index.php/tiendas/cosmeticos-y-perfumes">Cosméticos y Perfumes</a></li><li class="item-215"><a href="/index.php/tiendas/modas">Modas</a></li><li class="item-214"><a href="/index.php/tiendas/joyeria-y-relojeria">Joyería y Relojes</a></li><li class="item-218"><a href="/index.php/tiendas/electronica">Electrónica</a></li><li class="item-219"><a href="/index.php/tiendas/regalos">Regalos</a></li><li class="item-220"><a href="/index.php/tiendas/articulos-de-viaje">Artículos de Viaje</a></li><li class="item-303"><a href="/index.php/tiendas/artesanias-y-recuerdos">Artesanías y Recuerdos</a></li><li class="item-304"><a href="/index.php/tiendas/tienda-de-conveniencia">Tienda de Conveniencia</a></li><li class="item-305"><a href="/index.php/tiendas/libros-y-revistas">Libros y Revistas</a></li><li class="item-306"><a href="/index.php/tiendas/dulces-y-chocolates">Dulces y Chocolates</a></li></ul></li><li class="item-208 deeper parent"><a class=" dropdown-toggle" href="#">Salas de Espera VIP</a><ul class="nav-child unstyled small"><li class="item-247"><a href="/index.php/servicios/salas-de-espera-vip/tocumen-royal-saloon">Tocumen Royal Saloon</a></li><li class="item-351"><a href="/index.php/servicios/salas-de-espera-vip/the-lounge-panama-operated-by-global-lounge-network">The Lounge Panama Operated by Global Lounge Network</a></li></ul></li><li class="item-209 deeper parent"><a class=" dropdown-toggle" href="#">Banca</a><ul class="nav-child unstyled small"><li class="item-249"><a href="/index.php/atm">ATM</a></li><li class="item-250"><a href="/index.php/bancos">Bancos</a></li><li class="item-251"><a href="/index.php/casa-de-cambio">Casa de Cambio</a></li></ul></li><li class="item-212 deeper parent"><a class=" dropdown-toggle" href="#">Transporte Terrestre</a><ul class="nav-child unstyled small"><li class="item-256"><a href="/index.php/transporte-terrestre/transporte-publico">Transporte Público</a></li><li class="item-257"><a href="/index.php/transporte-terrestre/shuttle">Free Shuttle</a></li><li class="item-258"><a href="/index.php/transporte-terrestre/taxis">Taxi Autorizado</a></li><li class="item-259"><a href="/index.php/transporte-terrestre/alquiler-de-autos">Alquiler de Autos</a></li></ul></li><li class="item-210 deeper parent"><a class=" dropdown-toggle" href="#">Médicos</a><ul class="nav-child unstyled small"><li class="item-252"><a href="/index.php/servicios/medicos/clinica-de-urgencias">Clínica de Urgencias</a></li></ul></li><li class="item-211"><a href="/index.php/estacionamiento/pagados">Estacionamientos</a></li><li class="item-213"><a href="/index.php/servicios/policia-nacional">Policía Nacional</a></li></ul></li><li class="item-200 deeper parent"><a class=" dropdown-toggle" href="#">TURISMO</a><ul class="nav-child unstyled small"><li class="item-201"><a href="http://www.visitpanama.com" target="_blank"><img src="/images/template/atp.png" alt=" Guía Turística"><span class="image-title"> Guía Turística</span> </a></li><li class="item-349"><a href="https://docs.google.com/forms/d/e/1FAIpQLScElAM-ngIWNIYib13x_u2OZ8KYzh4SKkF-DUfxqrH0bPnEvw/viewform" target="_blank"><img src="/images/template/atp.png" alt="Recoger Pasajeros"><span class="image-title">Recoger Pasajeros</span> </a></li><li class="item-103"><a href="/index.php/turismo/red-de-aeropuertos">RED DE AEROPUERTOS</a></li></ul></li><li class="item-105"><a href="/index.php/contactenos">CONTÁCTENOS</a></li><li class="item-347"><a href="/index.php/informes">INFORMACIÓN FINANCIERA</a></li></ul>
+
+<div class="alresponsive visible-phone">
+<select id="al_select_list1" size="1" onchange="var e=document.getElementById('al_select_list1'); window.location.href=e.options[e.selectedIndex].value">
+<option value="#">Select</option>
+<option value="/index.php" selected="selected">INICIO</option>
+<option value="/index.php/nosotros/historia">QUIÉNES SOMOS</option>
+<option value="#">SERVICIOS</option>
+<option value="#">- Información del Viajero</option>
+<option value="/index.php/servicios/informacion-del-viajero/registro-check-in">- - Registro/Check In</option>
+<option value="/index.php/servicios/informacion-del-viajero/restricciones-de-equipaje-de-mano">- - Restricciones de Equipaje de Mano</option>
+<option value="/index.php/servicios/informacion-del-viajero/programa-de-migracion-biometrica">- - Programa de Migración Biométrica</option>
+<option value="/index.php/requisitos-para-la-entrada-a-panama">- - Pasaporte</option>
+<option value="/index.php/inmigracion/inmigracion">- - Puesto de Control de Seguridad</option>
+<option value="/index.php/servicios/informacion-del-viajero/viajando-con-menores">- - Viajando con Menores</option>
+<option value="/index.php/servicios/informacion-del-viajero/asistencia-a-pasajeros-con-movilidad-reducida">- - Asistencia a Pasajeros con Movilidad Reducida</option>
+<option value="/index.php/servicios/informacion-del-viajero/objetos-extraviados">- - Objetos Extraviados</option>
+<option value="/index.php/servicios/informacion-del-viajero/internet-telefonos">- - Internet y Teléfonos</option>
+<option value="/index.php/servicios/informacion-del-viajero/area-de-fumadores">- - Área de Fumadores</option>
+<option value="#">- Aerolíneas y Vuelos</option>
+<option value="/index.php/servicios/aerolineas-y-vuelos/aerolineas-de-pasajeros">- - Aerolineas de Pasajeros</option>
+<option value="/index.php/servicios/aerolineas-y-vuelos/aerolineas-de-carga">- - Aerolíneas de Carga</option>
+<option value="#">- Restaurantes</option>
+<option value="/index.php/restaurantes/bares-y-cafeterias">- - Bares y Cafeterías</option>
+<option value="/index.php/restaurantes/comida-rapida">- - Comida Rápida</option>
+<option value="/index.php/restaurantes/restaurante-casual">- - Restaurante Casual</option>
+<option value="#">- Tiendas</option>
+<option value="/index.php/tiendas/licores-y-cigarrillos">- - Licores y Cigarrillos</option>
+<option value="/index.php/tiendas/cosmeticos-y-perfumes">- - Cosméticos y Perfumes</option>
+<option value="/index.php/tiendas/modas">- - Modas</option>
+<option value="/index.php/tiendas/joyeria-y-relojeria">- - Joyería y Relojes</option>
+<option value="/index.php/tiendas/electronica">- - Electrónica</option>
+<option value="/index.php/tiendas/regalos">- - Regalos</option>
+<option value="/index.php/tiendas/articulos-de-viaje">- - Artículos de Viaje</option>
+<option value="/index.php/tiendas/artesanias-y-recuerdos">- - Artesanías y Recuerdos</option>
+<option value="/index.php/tiendas/tienda-de-conveniencia">- - Tienda de Conveniencia</option>
+<option value="/index.php/tiendas/libros-y-revistas">- - Libros y Revistas</option>
+<option value="/index.php/tiendas/dulces-y-chocolates">- - Dulces y Chocolates</option>
+<option value="#">- Salas de Espera VIP</option>
+<option value="/index.php/servicios/salas-de-espera-vip/tocumen-royal-saloon">- - Tocumen Royal Saloon</option>
+<option value="/index.php/servicios/salas-de-espera-vip/the-lounge-panama-operated-by-global-lounge-network">- - The Lounge Panama Operated by Global Lounge Network</option>
+<option value="#">- Banca</option>
+<option value="/index.php/atm">- - ATM</option>
+<option value="/index.php/bancos">- - Bancos</option>
+<option value="/index.php/casa-de-cambio">- - Casa de Cambio</option>
+<option value="#">- Transporte Terrestre</option>
+<option value="/index.php/transporte-terrestre/transporte-publico">- - Transporte Público</option>
+<option value="/index.php/transporte-terrestre/shuttle">- - Free Shuttle</option>
+<option value="/index.php/transporte-terrestre/taxis">- - Taxi Autorizado</option>
+<option value="/index.php/transporte-terrestre/alquiler-de-autos">- - Alquiler de Autos</option>
+<option value="#">- Médicos</option>
+<option value="/index.php/servicios/medicos/clinica-de-urgencias">- - Clínica de Urgencias</option>
+<option value="/index.php/estacionamiento/pagados">- Estacionamientos</option>
+<option value="/index.php/servicios/policia-nacional">- Policía Nacional</option>
+<option value="#">TURISMO</option>
+<option value="http://www.visitpanama.com">-  Guía Turística</option>
+<option value="https://docs.google.com/forms/d/e/1FAIpQLScElAM-ngIWNIYib13x_u2OZ8KYzh4SKkF-DUfxqrH0bPnEvw/viewform">- Recoger Pasajeros</option>
+<option value="/index.php/turismo/red-de-aeropuertos">- RED DE AEROPUERTOS</option>
+<option value="/index.php/contactenos">CONTÁCTENOS</option>
+<option value="/index.php/informes">INFORMACIÓN FINANCIERA</option></select></div></nav>
+                </div>
+            </div>
+		</div><div class="clearfix"></div>
+	</header>
+
+    <div id="banner">
+        <div class="flexslider slide122">
+	<ul class="slides">
+	<li class="flex-active-slide" style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 1; display: block; z-index: 2;"><img src="/images/banner/1.jpg" alt="1" width="1400" height="392" draggable="false"></li><li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;"><img src="/images/banner/2.jpg" alt="2" width="1400" height="392" draggable="false"></li><li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;"><img src="/images/banner/Artboard 1.jpg" alt="Artboard 1" width="1400" height="392" draggable="false"></li><li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;"><img src="/images/banner/Artboard 2.jpg" alt="Artboard 2" width="1400" height="392" draggable="false"></li><li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;"><img src="/images/banner/Artboard 3.jpg" alt="Artboard 3" width="1400" height="392" draggable="false"></li><li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;"><img src="/images/banner/Artboard 4.jpg" alt="Artboard 4" width="1400" height="392" draggable="false"></li><li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;"><img src="/images/banner/Artboard 5.jpg" alt="Artboard 5" width="1400" height="392" draggable="false"></li><li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;"><img src="/images/banner/Artboard 6.jpg" alt="Artboard 6" width="1400" height="392" draggable="false"></li>	</ul>
+</div>
+
+            </div>
+    
+    <div class="navegacionfull">
+        <div class="container">
+            <div class="row">
+                <ul class="nav menu" id="menumiddle">
+<li class="item-106"><a href="/index.php/informacion-del-viajero"><img src="/images/template/menu/informacion.png" alt="Información del Viajero" width="62" height="62"><span class="image-title">Información del Viajero</span> </a></li><li class="item-107"><a href="/index.php/restaurantes-y-tiendas"><img src="/images/template/menu/restaurantes.png" alt="Restaurantes y Tiendas" width="62" height="62"><span class="image-title">Restaurantes y Tiendas</span> </a></li><li class="item-108"><a class="dropdown-toggle" href="/index.php/mapas"><img src="/images/template/menu/mapas.png" alt="Mapas y Direcciones"><span class="image-title">Mapas y Direcciones</span> </a></li><li class="item-109"><a class="dropdown-toggle" href="/index.php/estacionamiento/pagados"><img src="/images/template/menu/transporte.png" alt="Estacionamiento y Transporte"><span class="image-title">Estacionamiento y Transporte</span> </a></li><li class="item-112"><a class="dropdown-toggle" href="/index.php/servicios/aerolineas-y-vuelos/aerolineas-de-pasajeros"><img src="/images/template/menu/vuelos.png" alt=" Aerolíneas y Vuelos"><span class="image-title"> Aerolíneas y Vuelos</span> </a></li><li class="item-113"><a href="/index.php/noticias"><img src="/images/template/menu/noticias.png" alt="Noticias" width="62" height="62"><span class="image-title">Noticias</span> </a></li><li class="item-354"><a href="/index.php/noticias-2"><img src="/images/template/menu/t2-icon.png" alt="Terminal 2" width="62" height="62"><span class="image-title">Terminal 2</span> </a></li></ul>
+
+            </div>
+        </div>
+    </div>
+    
+    <div class="bottom">
+        <div class="container">
+            <div class="row">
+                		<div class="moduletable bcontact span4">
+
+					<h3>Contáctenos</h3>
+		
+			<p>Central Telefónica: <br><span class="telephone" itemprop="telephone"><img src="/images/phoneicon.png" alt="phoneicon">+507 238-2700</span><br><span class="telephone" itemprop="telephone"><img src="/images/phoneicon.png" alt="phoneicon">+507 238-2600</span></p>
+<p>Dirección:<br>Avenida Domingo Díaz, Panamá, Panamá</p>
+<p><a href="https://www.google.com.pa/maps/place/Aeropuerto+Internacional+de+Tocumen/@9.0669766,-79.3870681,17z/data=!3m1!4b1!4m2!3m1!1s0x8fab552d71b8818b:0xa82e09f665bbfce5" target="_blank">Ver Mapa</a></p>
+<p>Correo electrónico:<br><span itemprop="email"><a href="mailto:info@tocumenpanama.aero">info@tocumenpanama.aero</a></span></p>
+		</div>
+
+			<div class="moduletable span4">
+
+		
+			<p>Contamos con un centro de recopilación de objetos extraviados en la terminal de pasajeros, si usted perdió un artículo por favor comunicarse al:</p>
+<p><span class="telephone" itemprop="telephone"><img src="/images/phoneicon.png" alt="phoneicon">+507 238-2938</span></p>
+<p style="text-align: left;">correo electrónico: <span itemprop="email"><a href="mailto:objetosextraviados@tocumenpanama.aero">objetosextraviados@tocumenpanama.aero</a></span></p>
+<h3>Su opinión cuenta</h3>
+<p>Le invitamos a ofrecernos su opinión y/o sugerencias sobre nuestro servicio a través de la dirección:&nbsp;</p>
+<p><span itemprop="email"><a href="mailto:sugerencias@tocumenpanama.aero">sugerencias@tocumenpanama.aero</a></span></p>
+		</div>
+
+			<div class="moduletable span4">
+
+					<h3>Mapa del Sitio</h3>
+		
+			<p><a href="/index.php/mapa-del-sitio">Mapa del Sitio</a></p>
+<h3>Links</h3>
+<p>Visite: <a href="http://www.311.gob.pa" target="_blank">311 Centro de Atención Ciudadana</a><br> Visite: <a href="http://www.minsa.gob.pa/sites/default/files/general/informacion_introducir_animales_menores_al_pais_1.pdf" target="_blank">Ministerio de Salud Panamá</a><br> Visite: <a href="http://aeronautica.gob.pa" target="_blank">Autoridad Aeronautica Civil</a><br> Visite: <a href="http://migracion.gob.pa" target="_blank">Servicio Nacional de Migración</a> <br>Visite: <a href="http://www.ana.gob.pa" target="_blank">Autoridad Nacional de Aduanas</a><br>Visite: <a href="http://www.policia.gob.pa" target="_blank">Policia Nacional</a></p>
+		</div>
+
+	
+            </div>
+        </div>
+        		<div class="moduletablebottom">
+
+		
+			<div><img src="/images/footer.jpg" alt="footer" width="1920" height="232"></div>
+		</div>
+
+	
+    </div>
+
+	<footer class="footer">
+        
+	</footer>
+
+</body></html>

@@ -111,7 +111,7 @@
             <a href="576946480b52ad056d6f5bddf874399c83582ecf90963cc074a14c70580e7d9f.html"><i class="fa fa-comments-o"></i> Features</a>
         </li>
     </ul>
-    <span class="date-and-time"><a href="build-info.html"><i class="fa fa-info-circle"></i></a> Report generated 20-08-2020 09:03</span>
+    <span class="date-and-time"><a href="build-info.html"><i class="fa fa-info-circle"></i></a> Report generated 20-08-2020 15:05</span>
     <br style="clear:left"/>
 </div>
 
@@ -160,9 +160,9 @@ Para entrar a la seccion de servicios y poder encontrar el PDF
                 <table class="outcome-header">
                     <tr>
                         <td colspan="2" class="test-title-bar">
-                            <span class="outcome-icon"><i class='fa fa-exclamation-triangle error-icon fa-2x' title='ERROR'></i></span>
+                            <span class="outcome-icon"><i class='fa fa-times-circle failure-icon fa-2x' title='FAILURE'></i></span>
                             <span class="test-case-title">
-                                <span class="error-color">Abrir el PDF Politicas de objeto extraviado
+                                <span class="failing-color">Abrir el PDF Politicas de objeto extraviado
                                     <span class="related-issue-title"></span>
                                 </span>
                             </span>
@@ -181,8 +181,8 @@ Para entrar a la seccion de servicios y poder encontrar el PDF
     <div id="contenttilttle">
             <div class="screenshotFailure panel panel-danger">
 
-                        <div class="panel-heading title="Cucumber exception: Arity mismatch: Step Definition 'co.com.banistmo.reto.stepdefinitions.TocumenStepDefinitions.hagoClickEnSERVICIOSINFORMACIONDELVIAJEROOBJETOSEXTRAVIADOS() in file:/C:/Users/kyoung/IdeaProjects/co.com.banistmo.reto/build/classes/java/test/' with pattern [^Hago click en (.*)/INFORMACION DEL VIAJERO/OBJETOS EXTRAVIADOS$] is declared with 0 parameters. However, the gherkin step has 1 arguments [SERVICIOS]. ">
-                            Cucumber exception: Arity mismatch: Step Definition 'co.com.banistmo.reto.stepdefinitions.TocumenStepDefinitions.hagoClickEnSERVICIOSINFORMACIONDELVIAJEROOBJETOSEXTRAVIADOS() in file:/C:/Users/kyoung/IdeaProjects/co.com.banistmo.reto/build/c...
+                        <div class="panel-heading title="Assertion error: Expected net.serenitybdd.screenplay.QuestionSubject@1d64a90Expected: is (true) but: was (false)">
+                            Assertion error: Expected net.serenitybdd.screenplay.QuestionSubject@1d64a90Expected: is (true) but: was (false)
                         </div>
                 <div><!-- Stack trace -->
                     <button type="button" class="btn btn-danger" data-toggle="modal"
@@ -200,15 +200,17 @@ Para entrar a la seccion de servicios y poder encontrar el PDF
                                         aria-label="Close"><span aria-hidden="true">&times;</span>
                                 </button>
                                 <h4 class="modal-title" id="stacktraceModalLabel">
-                                    cucumber.runtime.CucumberException
+                                    java.lang.AssertionError
                                 </h4>
                             </div>
                             <div class="modal-body">
                                     <h5>
-                                        <pre>Arity mismatch: Step Definition 'co.com.banistmo.reto.stepdefinitions.TocumenStepDefinitions.hagoClickEnSERVICIOSINFORMACIONDELVIAJEROOBJETOSEXTRAVIADOS() in file:/C:/Users/kyoung/IdeaProjects/co.com.banistmo.reto/build/classes/java/test/' with pattern [^Hago click en (.*)/INFORMACION DEL VIAJERO/OBJETOS EXTRAVIADOS$] is declared with 0 parameters. However, the gherkin step has 1 arguments [SERVICIOS]. <br>Step text: Hago click en SERVICIOS/INFORMACION DEL VIAJERO/OBJETOS EXTRAVIADOS</pre>
+                                        <pre>Expected net.serenitybdd.screenplay.QuestionSubject@1d64a90<br>Expected: is &lt;true&gt;<br>     but: was &lt;false&gt;</pre>
                                     </h5>
-                                    cucumber.runner.Runner.runPickle(Runner.java
-                                    :80) <br>
+                                    co.com.banistmo.reto.stepdefinitions.TocumenStepDefinitions.deberiaAbrirseElArchivoAaaaa(TocumenStepDefinitions.java
+                                    :41) <br>
+                                    ✽.Deberia abrirse el archivo aa(src/test/resources/features/tocumenpdf.feature
+                                    :20) <br>
                             </div>
 
                             <div class="modal-footer">
@@ -222,14 +224,18 @@ Para entrar a la seccion de servicios y poder encontrar el PDF
 
 
                 <div class="panel-body">
-                    <a href="pagesource8297459029447265663.html.txt" target="_blank" class="btn btn-info">HTML Source</a>
+                    <a href="pagesource1209678899494796657.html.txt" target="_blank" class="btn btn-info">HTML Source</a>
                 </div>
             </div>
         <div class="slider-wrapper theme-default">
             <div id="slider">
                 <img src="5b560b4e33227ebe6a90a145f6cdba0a787198e2e20db0f3a89918df45e8bb00.png" title="Dado Ingreso a la pagina de tocumen" width="1366"/>
                 <img src="5b560b4e33227ebe6a90a145f6cdba0a787198e2e20db0f3a89918df45e8bb00.png" title="Kristelle opens the Tocumen page" width="1366"/>
-                <img src="5b560b4e33227ebe6a90a145f6cdba0a787198e2e20db0f3a89918df45e8bb00.png" title="Cuando Hago click en SERVICIOS/INFORMACION DEL VIAJERO/OBJETOS EXTRAVIADOS: <span class='error-color'>ERROR</span>" width="1366"/>
+                <img src="f45836a4554c6fa196671cf056d6355e3d8568a23d85ee70e66e16312c8c57f2.png" title="Cuando Hago click en SERVICIOS/INFORMACION DEL VIAJERO/OBJETOS EXTRAVIADOS
+| servicios | info | objextraviado |
+| SERVICIOS | Informaci&oacute;n del Viajero | Objetos Extraviados |" width="1366"/>
+                <img src="561dfdb7e17cbcfc3e0556adb82d1c0470396e1d3fa6de5ae0b6587ff16fcdb4.png" title="Kristelle clicks on Escribir idioma" width="1366"/>
+                <img src="a0d14e0d5335506a4fa6529418f584e923b2586fbd41f9ef01b07b3e448d6cd8.png" title="Then comprobar: <span class='failing-color'>FAILURE</span>" width="1366"/>
             </div>
         </div>
 

@@ -20,15 +20,13 @@ public class SeleccionLista implements Interaction {
 
     @Override
     public <T extends Actor> void performAs(T actor) {
-            List<WebElement> listObjeto = lista.resolveFor(actor).findElements(By.tagName("li"));
+            List<WebElement> listObjeto = lista.resolveFor(actor).findElements(By.xpath("li"));
             for (int i=0;i<listObjeto.size();i++){
                 if(listObjeto.get(i).getText().equals(opcion)){
                     listObjeto.get(i).click();
                     break;
                 }
             }
-            System.out.println(listObjeto);
-            System.out.println(opcion);
 
     }
     public static SeleccionLista laLista(Target lista, String opcion){

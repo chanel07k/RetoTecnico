@@ -1,8 +1,6 @@
 package co.com.banistmo.reto.model;
 
-
 public class BuscarData {
-
     String servicios;
     String info;
     String objextraviado;
@@ -30,5 +28,4 @@ public class BuscarData {
     public void setObjextraviado(String objextraviado) {
         this.objextraviado = objextraviado;
     }
-
 }

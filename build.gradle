@@ -12,9 +12,9 @@ buildscript {
 apply plugin: 'java'
 apply plugin: 'eclipse'
 apply plugin: 'idea'
-apply plugin: 'net.serenity-bdd.aggregator'  //aggregate
+apply plugin: 'net.serenity-bdd.aggregator'
 compileJava.options.encoding = "UTF-8"
-compileTestJava.options.encoding = "UTF-8"  //ñ, caracteres
+compileTestJava.options.encoding = "UTF-8"
 dependencies {
     testCompile 'net.serenity-bdd:serenity-core:1.1.1'
     testCompile 'net.serenity-bdd:serenity-junit:1.1.1'

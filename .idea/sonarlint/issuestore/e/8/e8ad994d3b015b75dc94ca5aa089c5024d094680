@@ -1,0 +1,7 @@
+
+L
+java:S1481"*Remove this unused "count" local variable.(ï¥ê™þÿÿÿÿ8–¸ŠâÀ.
+[
+java:S1854"9Remove this useless assignment to local variable "count".(ï¥ê™þÿÿÿÿ8–¸ŠâÀ.
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ú´úø8–¸ŠâÀ.
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×Ø±ƒ8–¸ŠâÀ.
